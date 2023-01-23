@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-
+ - [Viste meu projeto](https://honnigam.github.io/nlwsetup-explorer)
 
 ## 🔖 Layout
 
